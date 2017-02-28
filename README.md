@@ -7,7 +7,7 @@ Pour importer la librairie :
 use <Cubo.scad>;
 
 // le premier parametre : [x,y,z] comme pour cube([x,y,z])
-// le 2eme : La liste des angles qui seront tronqués. Il y en a 12
+// le 2eme : La liste des arêtes qui seront tronqués. Il y en a 12
 // le 3eme : La largeur du coté tronqué
 
 // quelques exemples d'utilisation :
