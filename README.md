@@ -1,5 +1,5 @@
 # Cubo.scad
-Module OpenSCAD pour tronquer les angles des cubes
+Module OpenSCAD pour réaliser des chanfreins facilement
 
 Coller le fichier "Cubo.scad" dans le même répertoire que le fichier scad 
 Pour importer la librairie :
